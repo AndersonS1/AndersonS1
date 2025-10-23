@@ -11,8 +11,7 @@
   <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ane-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Ane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
+   <img align="center" alt="Ane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
    <img align="center" alt="Ane-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
    
  
@@ -25,6 +24,6 @@
   <a href="https://www.linkedin.com/in/anderson-silva-904a581a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/AndersonS1/AndersonS1/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
